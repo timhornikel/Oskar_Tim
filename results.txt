@@ -3,3 +3,8 @@ Date of Test: 2023-11-30 15:45:10
 Bubble Sort Time: 11.155596 seconds
 Quick Sort Time: 0.032261 seconds
 
+Computer Name: DESKTOP-1B3SP80
+Date of Test: 2023-11-30 15:39:38
+Bubble Sort Time: 7.962437 seconds
+Quick Sort Time: 0.025116 seconds
+
