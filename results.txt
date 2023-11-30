@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-D6I0E2U
+Date of Test: 2023-11-30 15:45:10
+Bubble Sort Time: 11.155596 seconds
+Quick Sort Time: 0.032261 seconds
+
